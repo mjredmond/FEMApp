@@ -1,0 +1,29 @@
+{
+   "application" : {
+      "application_name" : "Primary name for program (typically a short name).",
+      "author" : "Michael Redmond",
+      "date_created" : "mm/dd/yyyy",
+      "date_modified" : "mm/dd/yyyy",
+      "description" : "Insert description.",
+      "long_name" : "Long name for program.",
+      "version" : {
+         "major" : 0,
+         "micro" : 0,
+         "minor" : 0,
+         "other" : "alpha, beta, etc."
+      }
+   },
+   "extensions" : {
+      "file_extension" : "primary file extension",
+      "macro_extension" : "macro extension (usually just add an m to file extension)"
+   },
+   "feedback" : {
+      "email_recipient" : "michael.j.redmond@gmail.com"
+   },
+   "files" : {
+      "beta_file" : "link to beta exe",
+      "icon" : "link to icon png",
+      "release_file" : "link to release exe",
+      "user_manual" : "link to user manual pdf"
+   }
+}

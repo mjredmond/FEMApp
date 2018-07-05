@@ -1,0 +1,31 @@
+{
+   "application" : {
+      "application_name" : "FEM",
+      "author" : "Michael Redmond",
+      "date_created" : "N/A",
+      "date_modified" : "N/A",
+      "description" : "Post-process Nastran results and extract loads.",
+      "long_name" : "FEM",
+      "version" : {
+         "major" : 0,
+         "micro" : 0,
+         "minor" : 0,
+         "other" : "alpha"
+      }
+   },
+   "extensions" : {
+      "file_extension" : "fleet",
+      "macro_extension" : "fleetm"
+   },
+   "feedback" : {
+      "email_recipient" : "michael.j.redmond@gmail.com"
+   },
+   "files" : {
+      "beta_file" : "tbd.exe",
+      "icon" : "tbd.png",
+      "release_file" : "tbe.exe",
+      "user_manual" : "tbd.pdf"
+   },
+   "plugins" : {
+   }
+}
